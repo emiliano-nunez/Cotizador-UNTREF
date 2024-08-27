@@ -258,6 +258,7 @@ button:hover {
 
 footer {
   width: 100%;
+  font-size: 80%;
   display: flex;
   justify-content: center;
   padding: 10px;
