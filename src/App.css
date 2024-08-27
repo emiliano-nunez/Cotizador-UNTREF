@@ -263,6 +263,10 @@ footer {
   justify-content: center;
   padding: 10px;
   opacity: 0.5;
+
+  p {
+    text-align: center;
+  }
 }
 
 .socialWebs {
