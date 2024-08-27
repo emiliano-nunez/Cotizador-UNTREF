@@ -25,6 +25,7 @@ function App() {
         {/* Rutas de la aplicación */}
         <BrowserRouter>
           <Routes>
+            <Route path="/cotizador" element={<NavBar />}/>
             <Route path="/" element={<NavBar />}/>
             <Route path="/home" element={<Home />}/>
             <Route path="/history" element={<History />}/>

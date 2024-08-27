@@ -5,7 +5,7 @@ function SocialWebs() {
     return (
         <section className='socialWebs'>
             <div className='segmento'>
-                <img src="./src/assets/yourprop-bg.ico" alt="logo" />
+                <img src="./src/assets/yourprop-bg.png" alt="logo" />
                 <h2>Somos YourProp</h2>
                 <p>Descubre nuestras propiedades. Cotiza tu propiedad. Nuestra web es tu mejor aliado al momento de sumergirse al mundo de la inversión de propiedades.</p>
                 <p>Con 22 años de experiencia en el rubro. ayudamos a más de 500 personas por día a cotizar propiedades.</p>

@@ -19,7 +19,7 @@ function NavBar() {
       <>
         <nav className='nav'>
             <Link to="/" className='link'>
-              <img src="./src/assets/yourprop-bg.ico" alt="icon" className='logo'/>
+              <img src="./src/assets/yourprop-bg.png" alt="icon" className='logo'/>
             </Link>
             <Link to="/home" className='link linkText'>Cotiza tu propiedad</Link>
             <Link to="/history" className='link linkText'>Historial de cotización</Link>
