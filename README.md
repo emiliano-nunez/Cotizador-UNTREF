@@ -7,7 +7,7 @@ Proyecto Final de la diplomatura de desarrollo FrontEnd de UNTREF
 ## Herramientas utilizadas:
 - ***React***
 - ***Vite***
-- ***GitHub***
+- ***GitHubPages***
 
 ### Apis utilizadas
 - ***Sonner*** - notificaciones toast
