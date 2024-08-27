@@ -256,6 +256,13 @@ button:hover {
   }
 }
 
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  opacity: 0.5;
+}
 
 .socialWebs {
   display: flex;

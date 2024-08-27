@@ -7,6 +7,7 @@ import NavBar from './components/NavBar'
 import './App.css'
 import SocialWebs from './components/SocialWebs'
 import { Toaster } from 'sonner'
+import Footer from './components/Footer'
 
 /*
 
@@ -36,6 +37,7 @@ function App() {
       </main>
       {/* Footer */}
       <SocialWebs />
+      <Footer/>
     </UserContext>
   )
 }
