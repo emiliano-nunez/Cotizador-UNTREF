@@ -21,6 +21,7 @@ Proyecto Final de la diplomatura de desarrollo FrontEnd de UNTREF
 - ***"/"*** : Es la ruta principal. Dirige hacia el Login de la página. Pedirá usuario, edad y contraseña para acceder al sistema.
 - ***"/home"*** : Aquí se encuentra la herramienta de cotización, pide parámetros que se deben rellenar para realizar la cotización, pudiendo guardarla en una lista guardada en la ruta ***"/history"***.
 - ***"/history"*** : Se guarda una lista de todas las cotizaciones guardadas. Podremos eliminar la lista si lo necesitamos o deshacer el cambio dentro de un tiempo limitado.
+- ***"/cotizador"*** : se utiliza para redireccionar en la página desplegada. coincidiendo con el nombre del proyecto en *Github*.
 
 ## Login 
 
