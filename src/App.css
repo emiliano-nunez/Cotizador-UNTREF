@@ -257,13 +257,14 @@ button:hover {
 }
 
 footer {
-  width: 100%;
+  width: 700px;
   font-size: 80%;
   display: flex;
   justify-content: center;
   padding: 10px;
   opacity: 0.5;
-
+  margin: auto;
+  
   p {
     text-align: center;
   }
@@ -356,6 +357,11 @@ footer {
     width: 100%;
   }
 
+  footer {
+    width: 500px;
+    margin: auto;
+  }
+
   .nav {
     flex-direction: column;
     align-items: center;
@@ -419,6 +425,11 @@ footer {
     justify-content: center;
     gap: 1rem;
     margin: 10px auto;
+    width: 80%;
+  }
+
+  footer {
+    margin: auto;
     width: 80%;
   }
 
