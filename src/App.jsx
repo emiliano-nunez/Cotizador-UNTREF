@@ -28,7 +28,9 @@ function App() {
             <Route path="/cotizador" element={<NavBar />}/>
             <Route path="/" element={<NavBar />}/>
             <Route path="/home" element={<Home />}/>
+            <Route path="/cotizador/home" element={<Home />}/>
             <Route path="/history" element={<History />}/>
+            <Route path="/cotizador/history" element={<History />}/>
           </Routes>
         </BrowserRouter>
       </main>
