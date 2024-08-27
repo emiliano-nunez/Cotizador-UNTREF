@@ -83,7 +83,7 @@ function Login() {
 
     return (
         <>
-            <img src="../assets/yourprop-bg.webp" alt="icon" className='logo'/>
+            <img src="../cotizador/src/assets/yourprop-bg.png" alt="icon" className='logo'/>
             <section className='login'>
                 <h2>Ingresa tus datos para la cotización</h2>
                 <form onSubmit={handleSubmit}>

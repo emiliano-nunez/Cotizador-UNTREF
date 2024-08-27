@@ -18,8 +18,8 @@ function NavBar() {
     return (
       <>
         <nav className='nav'>
-            <Link to="/" className='link'>
-              <img src="../assets/yourprop-bg.webp" alt="icon" className='logo'/>
+            <Link to="/cotizador" className='link'>
+              <img src="../cotizador/src/assets/yourprop-bg.png" alt="icon" className='logo'/>
             </Link>
             <Link to="/home" className='link linkText'>Cotiza tu propiedad</Link>
             <Link to="/history" className='link linkText'>Historial de cotización</Link>
